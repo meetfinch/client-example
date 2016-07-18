@@ -1,0 +1,22 @@
+{
+  "name": "finch-client-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetfinch/client-example.git"
+  },
+  "author": "Nick Payne <nick@kurai.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meetfinch/client-example/issues"
+  },
+  "homepage": "https://github.com/meetfinch/client-example#readme",
+  "dependencies": {
+    "finch-core": "^1.3.3"
+  }
+}
